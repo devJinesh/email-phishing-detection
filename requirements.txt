@@ -1,0 +1,12 @@
+numpy
+scikit-learn
+tldextract
+requests
+beautifulsoup4
+Flask
+flask-cors
+flask_cors
+pandas
+scikit-learn
+tldextract
+lxml
