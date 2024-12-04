@@ -1,0 +1,7 @@
+__pycache__/
+node_modules/
+*.pyc
+*.pyo
+*.log
+debug_run.bat
+run.bat

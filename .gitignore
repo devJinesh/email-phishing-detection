@@ -1,3 +1,46 @@
-node_modules
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Operating system files
 .DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Log files
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# Docker-related files
+docker-compose.override.yml
+*.tar
+
+# Build files
+dist/
+build/
+coverage/
+*.egg-info
+
+# Miscellaneous
+*.bak
+*.tmp
+*.old
+debug_run.bat
+
 output.txt
